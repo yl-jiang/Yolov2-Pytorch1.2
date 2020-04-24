@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/dk/.virtualenvs/fun/bin/python",
+    "git.ignoreLimitWarning": true, 
+    "python.linting.pylintArgs": ["--generate-members"]
+}
